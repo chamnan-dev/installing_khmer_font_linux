@@ -1,8 +1,10 @@
-<div style="text-align: center">
- <img src="image/bash+khmer.png" alt="logo">
+<div style="text-align: center;">
+
+![alt text](image/bash+khmer.png "Our logo")
+
 </div>
 
-# Hwo to download my script for installing khmer fonts
+# How to download my script for installing khmer fonts:
 
 1. Please download my script for with cURL: 
 
@@ -25,5 +27,10 @@ sudo apt install unzip
 ```bash
   unzip khmer-font-setup.zip
 
+```
+- then verify this script :
+
+```bash 
+    chmod +x khmer-fonts-setup.sh
 ```
 
