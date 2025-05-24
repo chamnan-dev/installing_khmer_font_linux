@@ -28,7 +28,20 @@ sudo apt install unzip
 ```
 - then verify this script :
 
-```bash 
-    chmod +x khmer-fonts-setup.sh
+```bash
+    cd khmer-fonts-setup
+    cd installing_khmer_font_linux-master
+ 
+    chmod +x install_khmer_fonts.sh
 ```
+
+- after typing like this: 
+
+``` bash
+./install_khmer_fonts.sh
+```
+
+# Attribution
+
+....
 
