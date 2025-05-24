@@ -1,8 +1,6 @@
-<div style="text-align: center;">
-
-![alt text](image/bash+khmer.png "Our logo")
-
-</div>
+<p align="center">
+  <img src="image/bash+khmer.png" alt="logo">
+</p>
 
 # How to download my script for installing khmer fonts:
 
