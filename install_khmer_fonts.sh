@@ -5,7 +5,7 @@
 
 # Define font directory and URL source
 FONT_DIR="$HOME/.local/share/fonts"  # User-specific fonts directory
-KHMER_FONT_URL="https://github.com/chamnan-dev/installing_khmer_font_linux/raw/refs/heads/master/All%20Khmer%20Fonts.zip"  # Replace with the actual URL
+KHMER_FONT_URL="https://github.com/chamnan-dev/installing_khmer_font_linux/raw/refs/heads/master/Khmer-fonts.zip"  # Replace with the actual URL
 
 # Create the font directory if it doesn't exist
 if [ ! -d "$FONT_DIR" ]; then
@@ -15,7 +15,7 @@ fi
 
 # Download Khmer fonts
 echo "Downloading Khmer fonts..."
-curl -o /tmp/All%20Khmer%20Fonts.zip "$KHMER_FONT_URL"
+curl -o /tmp/Khmer-fonts.zip "$KHMER_FONT_URL"
 
 # Check if download was successful
 if [ $? -ne 0 ]; then
@@ -25,7 +25,7 @@ fi
 
 # Extract the fonts
 echo "Extracting fonts..."
-unzip -o /tmp/All%20Khmer%20Fonts.zip -d "$FONT_DIR"
+unzip -o /tmp/Khmer-fonts.zip -d "$FONT_DIR"
 
 # Update font cache
 echo "Updating font cache..."
@@ -33,7 +33,7 @@ fc-cache -fv
 
 # Clean up
 echo "Cleaning up..."
-rm /tmp/All%20Khmer%20Fonts.zip
+rm /tmp/Khmer-fonts.zip
 
 # Confirm installation
 echo "Khmer fonts have been successfully installed!"
