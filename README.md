@@ -5,7 +5,7 @@
 <a href="https://github.com/chamnan-dev/installing_khmer_font_linux/actions"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/tests/badge.svg" alt="Build Status"></a>
 <a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/label.yml/badge.svg" alt="Total Downloads"></a>
 <a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/greetings.yml/badge.svg" alt="Greating"></a>
-<a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/codeql.yml/badge.svg" alt="Lable"></a>
+<a href="https://github.com/chamnan-dev/installing_khmer_font_linux/actions"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/testing.yml/badge.svg" alt="Testing"></a>
 </p>
 
 # How to download my script for installing khmer fonts:
