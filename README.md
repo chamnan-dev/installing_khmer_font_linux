@@ -2,7 +2,9 @@
   <img src="image/bash+khmer.png" alt="logo">
 </p>
 <p align="center">
-[![CodeQL Advanced](https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/testing.yml/badge.svg?event=issues)](https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/testing.yml)</a>
+
+[![CodeQL Advanced](https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/testing.yml/badge.svg?event=issues)](https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/testing.yml)
+
 <a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/label.yml/badge.svg" alt="Total Downloads"></a>
 <a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/greetings.yml/badge.svg" alt="Greating"></a>
 <a href="https://github.com/chamnan-dev/installing_khmer_font_linux/actions"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/testing.yml/badge.svg" alt="Testing"></a>
