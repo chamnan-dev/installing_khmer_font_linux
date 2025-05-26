@@ -3,8 +3,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/chamnan-dev/installing_khmer_font_linux/actions"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/tests/badge.svg" alt="Build Status"></a>
-#<a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://img.shields.io/github/dt/chamnan-dev/installing_khmer_font_linux" alt="Total Downloads"></a>
-#<a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://img.shields.io/github/v/chamnan-dev/installing_khmer_font_linux" alt="Latest Stable Version"></a>
+<a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://github.com/chamnan-dev/installing_khmer_font_linux/actions/workflows/label.yml" alt="Total Downloads"></a>
+<a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://img.shields.io/github/v/chamnan-dev/installing_khmer_font_linux" alt="Latest Stable Version"></a>
 <a href="https://github.com/chamnan-dev/installing_khmer_font_linux"><img src="https://img.shields.io/github/l/chamnan-dev/installing_khmer_font_linux" alt="License"></a>
 </p>
 
