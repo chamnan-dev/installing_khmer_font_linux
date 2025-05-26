@@ -47,6 +47,17 @@ sudo apt install unzip
 ./install_khmer_fonts.sh
 ```
 
-# Contributor
+## Contributors ✨
 
-comming soon...
+Thanks to these amazing contributors:
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/chamnan-dev"><img src="https://avatars.githubusercontent.com/u/109691277?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Chamnan</b></sub></a><br /><a href="#code-chamnan-dev" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/SmarterCoding"><img src="https://avatars.githubusercontent.com/u/134465005?v=4" width="100px;" alt=""/><br /><sub><b>Another User</b></sub></a><br /><a href="#doc-another-user" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
